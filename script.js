@@ -52,7 +52,7 @@
         b: "128,432",
         c: "125,355"
       },
-      correctAnswer: "c"
+      correctAnswer: "a"
     },
       <!--6-->
     {
@@ -70,7 +70,7 @@
       answers: {
         a: "Dual Inline Ram",
         b: "Double Data Rate",
-        c: "Doble Data Register"
+        c: "Double Data Register"
       },
       correctAnswer: "b"
     },
